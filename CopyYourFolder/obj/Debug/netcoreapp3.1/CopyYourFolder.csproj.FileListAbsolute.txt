@@ -1,0 +1,15 @@
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\bin\Debug\netcoreapp3.1\CopyYourFolder.exe
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\bin\Debug\netcoreapp3.1\CopyYourFolder.deps.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\bin\Debug\netcoreapp3.1\CopyYourFolder.runtimeconfig.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\bin\Debug\netcoreapp3.1\CopyYourFolder.runtimeconfig.dev.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\bin\Debug\netcoreapp3.1\CopyYourFolder.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\bin\Debug\netcoreapp3.1\CopyYourFolder.pdb
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\obj\Debug\netcoreapp3.1\CopyYourFolder.csprojAssemblyReference.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\obj\Debug\netcoreapp3.1\CopyYourFolder.Form1.resources
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\obj\Debug\netcoreapp3.1\CopyYourFolder.csproj.GenerateResource.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\obj\Debug\netcoreapp3.1\CopyYourFolder.AssemblyInfoInputs.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\obj\Debug\netcoreapp3.1\CopyYourFolder.AssemblyInfo.cs
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\obj\Debug\netcoreapp3.1\CopyYourFolder.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\obj\Debug\netcoreapp3.1\CopyYourFolder.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\obj\Debug\netcoreapp3.1\CopyYourFolder.pdb
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\CopyYourFolder\CopyYourFolder\obj\Debug\netcoreapp3.1\CopyYourFolder.genruntimeconfig.cache
